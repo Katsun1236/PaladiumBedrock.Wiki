@@ -1,14 +1,14 @@
-# Les outils 
+# Les outils
 
 > [!IMPORTANT]
 >Note
->Les caractéristiques et données sur la durabilité ainsi que les dégats ne prennent pas en compte les enchantements.
+>Les caractéristiques et données sur la durabilité ainsi que les dégâts ne prennent pas en compte les enchantements.
 
-## 1.Outils en améthyste 
+## 1. Outils en améthyste
 
 <table>
   <thead>
-    <tr style="background-color: #FF7000;">
+    <tr style="background-color: #FF7000; color: white;">
       <th>Objet</th>
       <th>Icône</th>
       <th>Descriptifs</th>
@@ -18,32 +18,32 @@
   <tbody>
     <tr>
       <td>**Épée**<br>amethyste sword<br>ID : xxx</td>
-      <td><img src="static/img/Icon/amethyste_sword.png" alt="Icon"></td>
-      <td>Dégâts : xxx<br>Durabilité : xxx</td>
+      <td><img src="https://i.imgur.com/6FeQ8TE.png" alt="Icon"></td>
+      <td>Dégâts : 7<br>Durabilité : 1561</td>
       <td><a href="static/img/items/Tools/Craft/amethyste_sword.png">Craft</a></td>
     </tr>
     <tr>
       <td>**Pioche**<br>amethyste pickaxe<br>ID : xxx</td>
-      <td><img src="static/img/Icon/amethyste_pickaxe.png" alt="Icon"></td>
-      <td>Dégâts : xxx<br>Durabilité : xxx</td>
+      <td><img src="https://i.imgur.com/6FeQ8TE.png" alt="Icon"></td>
+      <td>Dégâts : 5<br>Durabilité : 1561</td>
       <td><a href="static/img/items/Tools/Craft/amethyste_pickaxe.png">Craft</a></td>
     </tr>
     <tr>
       <td>**Hache**<br>amethyste axe<br>ID : xxx</td>
-      <td><img src="static/img/Icon/amethyste_axe.png" alt="Icon"></td>
-      <td>Dégâts : xxx<br>Durabilité : xxx</td>
+      <td><img src="https://i.imgur.com/6FeQ8TE.png" alt="Icon"></td>
+      <td>Dégâts : 9<br>Durabilité : 1561</td>
       <td><a href="static/img/items/Tools/Craft/amethyste_axe.png">Craft</a></td>
     </tr>
     <tr>
       <td>**Pelle**<br>amethyste shovel<br>ID : xxx</td>
-      <td><img src="static/img/Icon/amethyste_shovel.png" alt="Icon"></td>
-      <td>Dégâts : xxx<br>Durabilité : xxx</td>
+      <td><img src="https://i.imgur.com/6FeQ8TE.png" alt="Icon"></td>
+      <td>Dégâts : 3<br>Durabilité : 1561</td>
       <td><a href="static/img/items/Tools/Craft/amethyste_shovel.png">Craft</a></td>
     </tr>
     <tr>
       <td>**Houe**<br>amethyste hoe<br>ID : xxx</td>
-      <td><img src="static/img/Icon/amethyste_hoe.png" alt="Icon"></td>
-      <td>Dégâts : xxx<br>Durabilité : xxx</td>
+      <td><img src="https://i.imgur.com/6FeQ8TE.png" alt="Icon"></td>
+      <td>Dégâts : 1<br>Durabilité : 1561</td>
       <td><a href="static/img/items/Tools/Craft/amethyste_hoe.png">Craft</a></td>
     </tr>
   </tbody>
