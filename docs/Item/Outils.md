@@ -6,6 +6,17 @@
 
 ## 1.Outils en améthyste 
 
+<table>
+  <thead>
+    <tr style="background-color: #D3D3D3;">
+      <th>Objet</th>
+      <th>Icône</th>
+      <th>Descriptifs</th>
+      <th>Craft</th>
+    </tr>
+  </thead>
+</table>
+
 | __Objet__ | __Icône__ | __Decriptifs__ | __Craft__ | 
 | :-------: | :-------: | :------------- | :-------: |
 | **Épée** <br> *amethyste sword* <br> ID : xxx      | ![Icon/amethyste_sword](static/img/Icon/Tools/amethyst_sword.png)     | Dégats : xxx <br> Durabilité : xxx    | ![Craft/amethyste_sword](static/img/items/Tools/Craft/amethyst_sword.png)                      |
