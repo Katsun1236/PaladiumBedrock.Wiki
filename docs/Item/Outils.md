@@ -15,15 +15,39 @@
       <th>Craft</th>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td>**Épée**<br>amethyste sword<br>ID : xxx</td>
+      <td><img src="static/img/Icon/amethyste_sword.png" alt="Icon"></td>
+      <td>Dégâts : xxx<br>Durabilité : xxx</td>
+      <td><a href="static/img/items/Tools/Craft/amethyste_sword.png">Craft</a></td>
+    </tr>
+    <tr>
+      <td>**Pioche**<br>amethyste pickaxe<br>ID : xxx</td>
+      <td><img src="static/img/Icon/amethyste_pickaxe.png" alt="Icon"></td>
+      <td>Dégâts : xxx<br>Durabilité : xxx</td>
+      <td><a href="static/img/items/Tools/Craft/amethyste_pickaxe.png">Craft</a></td>
+    </tr>
+    <tr>
+      <td>**Hache**<br>amethyste axe<br>ID : xxx</td>
+      <td><img src="static/img/Icon/amethyste_axe.png" alt="Icon"></td>
+      <td>Dégâts : xxx<br>Durabilité : xxx</td>
+      <td><a href="static/img/items/Tools/Craft/amethyste_axe.png">Craft</a></td>
+    </tr>
+    <tr>
+      <td>**Pelle**<br>amethyste shovel<br>ID : xxx</td>
+      <td><img src="static/img/Icon/amethyste_shovel.png" alt="Icon"></td>
+      <td>Dégâts : xxx<br>Durabilité : xxx</td>
+      <td><a href="static/img/items/Tools/Craft/amethyste_shovel.png">Craft</a></td>
+    </tr>
+    <tr>
+      <td>**Houe**<br>amethyste hoe<br>ID : xxx</td>
+      <td><img src="static/img/Icon/amethyste_hoe.png" alt="Icon"></td>
+      <td>Dégâts : xxx<br>Durabilité : xxx</td>
+      <td><a href="static/img/items/Tools/Craft/amethyste_hoe.png">Craft</a></td>
+    </tr>
+  </tbody>
 </table>
-
-| __Objet__ | __Icône__ | __Decriptifs__ | __Craft__ | 
-| :-------: | :-------: | :------------- | :-------: |
-| **Épée** <br> *amethyste sword* <br> ID : xxx      | ![Icon/amethyste_sword](static/img/Icon/Tools/amethyst_sword.png)     | Dégats : xxx <br> Durabilité : xxx    | ![Craft/amethyste_sword](static/img/items/Tools/Craft/amethyst_sword.png)                      |
-| **Pioche** <br> *amathyste pickaxe* <br> ID : xxx  | ![Icon/amethyste_pickaxe](static/img/Icon/Tools/amethyst_pickaxe.png) | Dégats : xxx <br> Durabilité : xxx    | ![Craft/amethyste_pickaxe](static/img/items/Tools/Craft/amethyst_pickaxe.png)                    |
-| **Hache** <br> *amathyste axe* <br> ID : xxx       | ![Icon/amethyste_axe](static/img/Icon/Tools/amethyst_axe.png)         | Dégats : xxx <br> Durabilité : xxx    | ![Craft/amethyste_axe](Katsun1236/PaladiumBedrock.Wiki/static/img/Icon/Tools/amethyst_axe.png)         |
-| **Pelle** <br> *amethyste shovel* <br> ID : xxx    | ![Icon/amethyste_shovel](static/img/Icon/Tools/amethyst_shovel.png)   | Dégats : xxx <br> Durabilité : xxx    | ![Craft/amethyste_shovel](static/img/items/Tools/Craft/amethyst_shovel.png)                     |
-| **Houe** <br> *amethyste_hoe* <br> ID : xxx        | ![Icon_amethyste_hoe](static/img/Icon/Tools/amethyst_hoe.png)         | Dégats : xxx <br> Durabilité : xxx    | ![Craft/amethyste_shoe](static/img/items/Tools/Craft/amethyst_hoe.png)                        |
 
 ## 2.Outils en titane
 
