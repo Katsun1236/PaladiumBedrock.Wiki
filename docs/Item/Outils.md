@@ -16,7 +16,7 @@
 | *amathyste pickaxe* |                                                                             | Durabilité : xxx |                                                                               |
 | ID : xxx            |                                                                             |                  |                                                                               |
 | :-----------------: | --------------------------------------------------------------------------- | :--------------- | ----------------------------------------------------------------------------- |
-| Hache           | ![Icon/amethyste_axe](static/img/Icon/Tools/amethyst_axe.png) | Dégats : xxx     | ![Craft/amethyste_axe](static/img/Craft/Tools/amethyst_axe.png) |
+| Hache           | ![Icon/amethyste_axe](static/img/Icon/Tools/amethyst_axe.png) | Dégats : xxx     | ![Craft/amethyste_axe](Katsun1236/PaladiumBedrock.Wiki/static/img/Icon/Tools/amethyst_axe.png) |
 | *amathyste axe* |                                                                     | Durabilité : xxx |                                                                       |
 | ID : xxx        |                                                                     |                  |                                                                       |
 | :-------------: | ------------------------------------------------------------------- | :--------------- | --------------------------------------------------------------------- | 
