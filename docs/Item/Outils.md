@@ -8,7 +8,7 @@
 
 <table>
   <thead>
-    <tr style="background-color: #D3D3D3;">
+    <tr style="background-color: #FF7000;">
       <th>Objet</th>
       <th>Icône</th>
       <th>Descriptifs</th>
