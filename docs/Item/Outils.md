@@ -1,7 +1,6 @@
 # Les outils
 
 > [!IMPORTANT]
->Note : <br>
 >Les caractéristiques et données sur la durabilité ainsi que les dégâts ne prennent pas en compte les enchantements.
 
 ## 1. Outils en améthyste 
