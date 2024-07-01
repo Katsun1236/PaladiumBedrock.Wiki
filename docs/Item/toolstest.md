@@ -8,7 +8,7 @@
 
 | Objet | Icône | Descriptifs | Craft |
 |:-----:|-------|:------------|-------|
-| **Épée** <br> *amethyste_sword* <br> *ID : xxx*  | <img src="static/img/items/amethyst_sword.png" class="icon" alt="Icon_amethyste_sword">  | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/crafts/amethyst_sword.png" class="craft" alt="Craft_amethyste_sword"> |
+| **Épée** <br> *amethyste_sword* <br> *ID : xxx* | <img src="https://urlz.fr/r5se" alt="Icon_amethyste_sword">  | Dégâts : xxx <br> Durabilité : xxx | <img src="https://urlz.fr/r5sk" alt="Craft_amethyste_sword"> |
 | **Pioche** <br> *amethyste_pickaxe* <br> *ID : xxx* | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_pickaxe"> | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_pickaxe.png" class="craft" alt="Craft_amethyste_pickaxe"> |
 | **Hache** <br> *amethyste_axe* <br> *ID : xxx*    | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_axe">    | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_axe.png" class="craft" alt="Craft_amethyste_axe"> |
 | **Pelle** <br> *amethyste_shovel* <br> *ID : xxx* | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_shovel"> | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_shovel.png" class="craft" alt="Craft_amethyste_shovel"> |
