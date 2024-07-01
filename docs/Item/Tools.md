@@ -7,7 +7,7 @@
 
 | Objet        | Icône                                                          | Descriptifs                   | Craft                                      |
 |:------------:|----------------------------------------------------------------|:------------------------------|--------------------------------------------|
-| **Épée** <br> *amethyste_sword* <br> *ID : xxx* | ![Icon_amethyste_sword]() | Dégâts : xxx <br> Durabilité : xxx | ![Craft_amethyste_sword](static/img/Items/Tools/Craft/amethyst_shovel.png) |
+| **Épée** <br> *amethyste_sword* <br> *ID : xxx* | ![Icon_amethyste_sword](static/img/Items/Tools/Craft/amethyst_shovel.png) | Dégâts : xxx <br> Durabilité : xxx | ![Craft_amethyste_sword](static/img/Items/Tools/Craft/amethyst_shovel.png) |
 | **Pioche** <br> *amethyste_pickaxe* <br> *ID : xxx*  | ![Icon_amethyste_pickaxe]() | Dégâts : xxx<br>Durabilité : xxx | ![Craft_amethyste_pickaxe]() |
 | **Hache** <br> *amethyste_axe* <br> *ID : xxx*       | ![Icon_amethyste_axe]()  | Dégâts : xxx<br>Durabilité : xxx | ![Craft_amethyste_axe]() |
 | **Pelle** <br> *amethyste_shovel* <br> *ID : xxx*    | ![Icon_amethyste_shovel]()  | Dégâts : xxx<br>Durabilité : xxx | ![Craft_amethyste_shovel]()  |
