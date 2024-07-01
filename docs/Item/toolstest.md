@@ -3,16 +3,6 @@
 > [!IMPORTANT]
 > Les caractéristiques et données sur la durabilité ainsi que les dégâts ne prennent pas en compte les enchantements.
 
-<style>
-  .icon {
-    width: 32px;
-    height: 32px;
-  }
-  .craft {
-    width: 128px;
-    height: 128px;
-  }
-</style>
 
 ## 1. Outils en améthyste 
 
