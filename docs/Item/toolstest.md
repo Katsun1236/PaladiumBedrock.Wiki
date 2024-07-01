@@ -5,8 +5,8 @@
 
 <style>
   .icon {
-    width: 64px;
-    height: 64px;
+    width: 32px;
+    height: 32px;
   }
   .craft {
     width: 128px;
@@ -16,18 +16,13 @@
 
 ## 1. Outils en améthyste 
 
-| Objet        | Icône                                                                 | Descriptifs                   | Craft                                      |
-|--------------|-----------------------------------------------------------------------|--------------------------------|--------------------------------------------|
-| **Épée**     | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_sword">  | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_sword.png" class="craft" alt="Craft_amethyste_sword"> |
-| *amethyste_sword* <br> *ID : xxx* | | | |
-| **Pioche**   | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_pickaxe"> | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_pickaxe.png" class="craft" alt="Craft_amethyste_pickaxe"> |
-| *amethyste_pickaxe* <br> *ID : xxx* | | | |
-| **Hache**    | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_axe">    | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_axe.png" class="craft" alt="Craft_amethyste_axe"> |
-| *amethyste_axe* <br> *ID : xxx* | | | |
-| **Pelle**    | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_shovel">  | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_shovel.png" class="craft" alt="Craft_amethyste_shovel"> |
-| *amethyste_shovel* <br> *ID : xxx* | | | |
-| **Houe**     | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_hoe">    | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_hoe.png" class="craft" alt="Craft_amethyste_hoe"> |
-| *amethyste_hoe* <br> *ID : xxx* | | | |
+| Objet | Icône | Descriptifs | Craft |
+|:-----:|-------|:------------|-------|
+| **Épée** <br> *amethyste_sword* <br> *ID : xxx*  | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_sword">  | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_sword.png" class="craft" alt="Craft_amethyste_sword"> |
+| **Pioche** <br> *amethyste_pickaxe* <br> *ID : xxx* | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_pickaxe"> | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_pickaxe.png" class="craft" alt="Craft_amethyste_pickaxe"> |
+| **Hache** <br> *amethyste_axe* <br> *ID : xxx*    | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_axe">    | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_axe.png" class="craft" alt="Craft_amethyste_axe"> |
+| **Pelle** <br> *amethyste_shovel* <br> *ID : xxx* | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_shovel"> | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_shovel.png" class="craft" alt="Craft_amethyste_shovel"> |
+| **Houe** <br> *amethyste_hoe* <br> *ID : xxx*    | <img src="static/img/JkyugbOvgD.png" class="icon" alt="Icon_amethyste_hoe">    | Dégâts : xxx <br> Durabilité : xxx | <img src="static/img/items/amethyst_hoe.png" class="craft" alt="Craft_amethyste_hoe"> |
 
 ## 2. Outils en titane
 
