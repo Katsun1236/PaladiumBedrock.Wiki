@@ -7,12 +7,12 @@
 ## 1. Outils en améthyste 
 
 | Objet        | Icône                                                          | Descriptifs                   | Craft                                      |
-|--------------|---------------------------------------------------------------|-------------------------------|--------------------------------------------|
-| **Épée** <br> *amethyste_sword* <br> *ID : xxx* | ![Icon_amethyste_sword](static/img/Icon/Tools/amethyst_sword.png) | Dégâts : xxx <br> Durabilité : xxx | [Craft_amethyste_sword](static/img/Craft/Tools/amethyst_sword.png) |
-| **Pioche**   | ![Pioche](https://i.imgur.com/6FeQ8TE.png)                    | Dégâts : xxx<br>Durabilité : xxx | [Craft](https://i.imgur.com/D6AnqHZ.png) |
-| **Hache**    | ![Hache](https://i.imgur.com/6FeQ8TE.png)                     | Dégâts : xxx<br>Durabilité : xxx | [Craft](https://i.imgur.com/D6AnqHZ.png) |
-| **Pelle**    | ![Pelle](https://i.imgur.com/6FeQ8TE.png)                     | Dégâts : xxx<br>Durabilité : xxx | [Craft](https://i.imgur.com/D6AnqHZ.png) |
-| **Houe**     | ![Houe](https://i.imgur.com/6FeQ8TE.png)                      | Dégâts : xxx<br>Durabilité : xxx | [Craft](https://i.imgur.com/D6AnqHZ.png) |
+|:------------:|----------------------------------------------------------------|:------------------------------|--------------------------------------------|
+| **Épée** <br> *amethyste_sword* <br> *ID : xxx* | ![Icon_amethyste_sword]() | Dégâts : xxx <br> Durabilité : xxx | [Craft_amethyste_sword](static/img/Craft/Tools/amethyst_sword.png) |
+| **Pioche** <br> *amethyste_pickaxe* <br> *ID : xxx*  | ![Icon_amethyste_pickaxe]() | Dégâts : xxx<br>Durabilité : xxx | [Craft_amethyste_pickaxe]() |
+| **Hache** <br> *amethyste_axe* <br> *ID : xxx*       | ![Icon_amethyste_axe]()  | Dégâts : xxx<br>Durabilité : xxx | [Craft_amethyste_axe]() |
+| **Pelle** <br> *amethyste_shovel* <br> *ID : xxx*    | ![Icon_amethyste_shovel]()  | Dégâts : xxx<br>Durabilité : xxx | [Craft_amethyste_shovel]()  |
+| **Houe** <br> *amethyste_hoe* <br> *ID : xxx*        | ![Icon_amethyste_hoe]()]() | Dégâts : xxx<br>Durabilité : xxx | [Craft_amethyste_hoe]() |
 
 ## 2.Outils en titane
 
