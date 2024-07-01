@@ -12,7 +12,7 @@
 | **Pioche** <br> *amethyste_pickaxe* <br> *ID : xxx*  | ![Icon_amethyste_pickaxe]() | Dégâts : xxx<br>Durabilité : xxx | [Craft_amethyste_pickaxe]() |
 | **Hache** <br> *amethyste_axe* <br> *ID : xxx*       | ![Icon_amethyste_axe]()  | Dégâts : xxx<br>Durabilité : xxx | [Craft_amethyste_axe]() |
 | **Pelle** <br> *amethyste_shovel* <br> *ID : xxx*    | ![Icon_amethyste_shovel]()  | Dégâts : xxx<br>Durabilité : xxx | [Craft_amethyste_shovel]()  |
-| **Houe** <br> *amethyste_hoe* <br> *ID : xxx*        | ![Icon_amethyste_hoe]()]() | Dégâts : xxx<br>Durabilité : xxx | [Craft_amethyste_hoe]() |
+| **Houe** <br> *amethyste_hoe* <br> *ID : xxx*        | ![Icon_amethyste_hoe]() | Dégâts : xxx<br>Durabilité : xxx | [Craft_amethyste_hoe]() |
 
 ## 2.Outils en titane
 
