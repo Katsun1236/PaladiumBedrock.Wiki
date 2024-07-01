@@ -7,7 +7,6 @@
 
 | Objet        | Icône                                                          | Descriptifs                   | Craft                                      |
 |:------------:|----------------------------------------------------------------|:------------------------------|--------------------------------------------|
-
 | **Épée** <br> *amethyste_sword* <br> *ID : xxx* | ![Icon_amethyste_sword](https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/amethyst_sword.png) | Dégâts : xxx <br> Durabilité : xxx | ![Craft_amethyste_sword]() |
 | **Pioche** <br> *amethyste_pickaxe* <br> *ID : xxx*  | ![Icon_amethyste_pickaxe]() | Dégâts : xxx<br>Durabilité : xxx | ![Craft_amethyste_pickaxe]() |
 | **Hache** <br> *amethyste_axe* <br> *ID : xxx*       | ![Icon_amethyste_axe]()  | Dégâts : xxx<br>Durabilité : xxx | ![Craft_amethyste_axe]() |
