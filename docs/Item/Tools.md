@@ -26,8 +26,7 @@
 
 ## 3. Outils en paladium 
 
-> [!WARNING]
-> Note 
+> [!Attention]
 > Les outils en paladium et en paladium vers ont besoins de d'item spécifique et de l'assembly table afin d'être craft. 
 
 | Objet | Icône | Decriptifs | Craft | 
