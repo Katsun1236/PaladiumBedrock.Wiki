@@ -14,12 +14,17 @@
 | Houe<br>*amethyste_hoe*<br>*ID : xxx*       | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/amethyst_hoe.png?raw=true" alt="Icon_amethyste_hoe" style="width: 80px; height: 80px; object-fit: cover;">         | Dégâts : xxx<br>Durabilité : xxx | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/408d4dff7b2e44939d7bb8a6a9533315ab7460ae/static/img/crafts/amethyst_hoe.png?raw=true" alt="Craft_amethyste_hoe" style="width: 160px; height: 160px; object-fit: cover;"> |
 
 
-## 2.Outils en titane
+## 2. Outils en titane
 
 | Objet | Icône | Decriptifs | Craft | 
 | :-----: | --- | :--------- | ----- |
+| Épée<br>*titane_sword*<br>*ID : xxx*      | <img src="" alt="Icon_titane_sword" style="width: 80px; height: 80px; object-fit: cover;">     | Dégâts : xxx<br>Durabilité : xxx | <img src="" alt="Craft_titane_sword" style="width: 160px; height: 160px; object-fit: cover;"> |
+| Pioche<br>*titiane_pickaxe*<br>*ID : xxx* | <img src="" alt="Icon_titiane_pickaxe" style="width: 80px; height: 80px; object-fit: cover;">     | Dégâts : xxx<br>Durabilité : xxx | <img src="" alt="Craft_titiane_pickaxe" style="width: 160px; height: 160px; object-fit: cover;"> |
+| Hache<br>*titane_axe*<br>*ID : xxx*       | <img src="" alt="Icon_titane_axe" style="width: 80px; height: 80px; object-fit: cover;">     | Dégâts : xxx<br>Durabilité : xxx | <img src="" alt="Craft_titane_axe" style="width: 160px; height: 160px; object-fit: cover;"> |
+| Pelle<br>*titane_shovel*<br>*ID : xxx*    | <img src="" alt="Icon_titane_shovel" style="width: 80px; height: 80px; object-fit: cover;">     | Dégâts : xxx<br>Durabilité : xxx | <img src="" alt="Craft_titane_shovel" style="width: 160px; height: 160px; object-fit: cover;"> |
+| Houe<br>*titane_hoe*<br>*ID : xxx*        | <img src="" alt="Icon_titane_hoe" style="width: 80px; height: 80px; object-fit: cover;">     | Dégâts : xxx<br>Durabilité : xxx | <img src="" alt="Craft_titane_hoe" style="width: 160px; height: 160px; object-fit: cover;"> |
 
-## 3.Outils en paladium 
+## 3. Outils en paladium 
 
 > [!WARNING]
 > Note 
