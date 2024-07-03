@@ -1,3 +1,8 @@
+---
+id: tools
+title: Les outils 
+---
+
 # Les outils
 
 > [!IMPORTANT]
