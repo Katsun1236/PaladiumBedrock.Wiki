@@ -31,7 +31,7 @@ title: Les outils
 ## 3. Outils en paladium 
 
 > [!warning]
-> Les outils en paladium et en paladium vers ont besoins d'items spécifique et de l'assembly table afin d'être craft. Consultez la page sur le [grinder](https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/651ba8adcd1e41a80b0e6aff386e915760392423/docs/Machines/Grinder.md) pour en apprendre plus. 
+> Les outils en paladium et en paladium vert ont besoins d'items spécifiques et de l'[assembly table](Katsun1236/PaladiumBedrock.Wiki/docs/Machines/AssemblyeTable.md) afin d'être craft. Consultez la page sur le [grinder](https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/651ba8adcd1e41a80b0e6aff386e915760392423/docs/Machines/Grinder.md) pour en apprendre plus. 
 
 | Objet | Icône | Decriptifs | Craft | 
 | :-----: | --- | :--------- | ----- |
