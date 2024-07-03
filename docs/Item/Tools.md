@@ -35,7 +35,7 @@ title: Les outils
 
 | Objet | Icône | Decriptifs | Craft | 
 | :-----: | --- | :--------- | ----- |
-| Pioche<br>*paladium_pickaxe* | <img src="" alt="Icon_paladium_pickaxe" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : +8 <br>Durabilité : 4999 | Les outils en paladium ne peuvent être fabriqué uniquement avec le [https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/651ba8adcd1e41a80b0e6aff386e915760392423/docs/Machines/Grinder.md](grinder).|
+| Pioche<br>*paladium_pickaxe* | <img src="" alt="Icon_paladium_pickaxe" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : +8 <br>Durabilité : 4999 | Les outils en paladium ne peuvent être fabriqué uniquement avec le [grinder](https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/651ba8adcd1e41a80b0e6aff386e915760392423/docs/Machines/Grinder.md).|
 | Hache<br>*paladium_axe*<br>*ID : xxx* | <img src=" alt="Icon_paladium_axe" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : +6.5<br>Durabilité : 2999 |  |
 | Pelle<br>*paladium_shovel*<br>*ID : xxx* | <img src="" alt="Icon_paladium_shovel" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : xxx<br>Durabilité : 2999 | |
 | Houe<br>*paladium_hoe*<br>*ID : xxx* | <img src="" alt="Icon_paladium_hoe" style="width: 80px; height: 80px; object-fit: cover;"> | **Durabilité : 2999** <br>Bêche la terre sur 4x4 blocs <br>Disponible et utilisable à partir du **niveau 20 farmeur** |  |
