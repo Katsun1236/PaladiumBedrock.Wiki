@@ -12,7 +12,7 @@ title: Les armures
 
 | Objet | icone   | descriptif | Craft |
 |:-----:|---------|:-----------|-------|
-| **Casque en améthyste** <br/> *amethyst_helmet* |<img src="..%2F..%2Fstatic%2Fimg%2Fitems%2Famethyst_helmet.png" alt="Icon_amethyste_helmet" style="width: 80px; height: 80px; object-fit: cover;">| Armure : xxx <br> Durabilité : xxx | <img src="..%2F..%2Fstatic%2Fimg%2Fcrafts%2Famethyst_helmet.png" alt="Craft_amethyste_helmet" style="width: 80px; height: 80px; object-fit: cover;"> |
+| **Casque en améthyste** <br/> *amethyst_helmet* |<img src="..%2F..%2Fstatic%2Fimg%2Fitems%2Famethyst_helmet.png" alt="Icon_amethyste_helmet" style="width: 80px; height: 80px; object-fit: cover;">| Armure : xxx <br> Durabilité : xxx | <img src="..%2F..%2Fstatic%2Fimg%2Fcrafts%2Famethyst_helmet.png" alt="Craft_amethyste_helmet" style="width: 160px; height: 160px; object-fit: cover;"> |
 | **Plastron en améthyste** <br/> _amethyst chestplate_ |![amethyst_chestplate.png](..%2F..%2Fstatic%2Fimg%2Fitems%2Famethyst_chestplate.png) | att de relance du seveur |![amethyst_chestplate.png](..%2F..%2Fstatic%2Fimg%2Fcrafts%2Famethyst_chestplate.png)       |
 | **Jambière en améthyste**  <br/>  _amethyst leggings_ |![amethyst_leggings.png](..%2F..%2Fstatic%2Fimg%2Fitems%2Famethyst_leggings.png)     | att de relance du seveur |![amethyst_leggings.png](..%2F..%2Fstatic%2Fimg%2Fcrafts%2Famethyst_leggings.png)       |
 | **Bottes en améthyste** <br/> _amethyst boots_        |![amethyst_boots.png](..%2F..%2Fstatic%2Fimg%2Fitems%2Famethyst_boots.png) | att de relance du seveur |![amethyst_boots.png](..%2F..%2Fstatic%2Fimg%2Fcrafts%2Famethyst_boots.png)|
