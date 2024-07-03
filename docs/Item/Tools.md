@@ -33,13 +33,13 @@ title: Les outils
 > [!warning]
 > Les outils en paladium et en paladium vert ont besoins d'items spécifiques et de l'[assembly table](Katsun1236/PaladiumBedrock.Wiki/docs/Machines/AssemblyeTable.md) afin d'être craft. Consultez la page sur le [grinder](https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/651ba8adcd1e41a80b0e6aff386e915760392423/docs/Machines/Grinder.md) pour en apprendre plus. 
 
-| Objet | Icône | Decriptifs | Craft | 
-| :-----: | --- | :--------- | ----- |
-| Pioche<br>*paladium_pickaxe* | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/paladium_pickaxe.png" alt="Icon_paladium_pickaxe" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : +8 <br>Durabilité : 4999 | *Se crafte avec le [grinder](https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/651ba8adcd1e41a80b0e6aff386e915760392423/docs/Machines/Grinder.md).* |
-| Hache<br>*paladium_axe* | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/paladium_axe.png" alt="Icon_paladium_axe" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : +9<br>Durabilité : 4999 | *Se crafte avec le [grinder](https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/651ba8adcd1e41a80b0e6aff386e915760392423/docs/Machines/Grinder.md).*  |
-| Pelle<br>*paladium_shovel* | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/paladium_shovel.png" alt="Icon_paladium_shovel" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : 7 <br>Durabilité : 4999 | *Se crafte avec le [grinder](https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/651ba8adcd1e41a80b0e6aff386e915760392423/docs/Machines/Grinder.md).* |
-| Houe<br>*paladium_hoe* | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/paladium_hoe.png" alt="Icon_paladium_hoe" style="width: 80px; height: 80px; object-fit: cover;"> | **Durabilité : 4999** <br>Bêche la terre sur 6x6 blocs <br>Disponible et utilisable à partir du **niveau 50 farmeur** | *Se crafte avec le [grinder](https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/651ba8adcd1e41a80b0e6aff386e915760392423/docs/Machines/Grinder.md).* |
-| Hammer<br> *paladium_hammer*| <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/paladium_hammer.png" alt="Icon_paladium_hammer" style="width: 80px; height: 80px; object-fit: cover;"> | Durabilité : 1999 <br> Creuse **3x3 block** | *Se crafte avec le [grinder](https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/651ba8adcd1e41a80b0e6aff386e915760392423/docs/Machines/Grinder.md).* |
+| Objet | Icône | Decriptifs | 
+| :-----: | --- | :--------- | 
+| Pioche<br>*paladium_pickaxe* | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/paladium_pickaxe.png" alt="Icon_paladium_pickaxe" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : +8 <br>Durabilité : 4999 | 
+| Hache<br>*paladium_axe* | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/paladium_axe.png" alt="Icon_paladium_axe" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : +9<br>Durabilité : 4999 | 
+| Pelle<br>*paladium_shovel* | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/paladium_shovel.png" alt="Icon_paladium_shovel" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : 7 <br>Durabilité : 4999 | 
+| Houe<br>*paladium_hoe* | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/paladium_hoe.png" alt="Icon_paladium_hoe" style="width: 80px; height: 80px; object-fit: cover;"> | **Durabilité : 4999** <br>Bêche la terre sur 6x6 blocs <br>Disponible et utilisable à partir du **niveau 50 farmeur** |
+| Hammer<br> *paladium_hammer*| <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/paladium_hammer.png" alt="Icon_paladium_hammer" style="width: 80px; height: 80px; object-fit: cover;"> | Durabilité : 1999 <br> Creuse **3x3 block** | 
 
 ## 4.Outils en paladium vert
 
@@ -57,4 +57,10 @@ title: Les outils
 | Pioche<br>*titianium_pickaxe*<br>*ID : xxx* | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/titanium_pickaxe.png" alt="Icon_titiane_pickaxe" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : +5.5 <br>Durabilité : 2999 | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/408d4dff7b2e44939d7bb8a6a9533315ab7460ae/static/img/crafts/titanium_pickaxe.png" alt="Craft_titiane_pickaxe" style="width: 160px; height: 160px; object-fit: cover;"> |
 | Hache<br>*titanium_axe*<br>*ID : xxx* | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/titanium_axe.png" alt="Icon_titane_axe" style="width: 80px; height: 80px; object-fit: cover;"> | Dégâts : +6.5<br>Durabilité : 2999 | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/408d4dff7b2e44939d7bb8a6a9533315ab7460ae/static/img/crafts/titanium_axe.png" alt="Craft_titane_axe" style="width: 160px; height: 
 | Houe<br>*titanium_hoe*<br>*ID : xxx* | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/c8f54fc714a93dbf32229ff43f5ac7db810abee2/static/img/items/titanium_hoe.png" alt="Icon_titane_hoe" style="width: 80px; height: 80px; object-fit: cover;"> | **Durabilité : 2999** <br>Bêche la terre sur 4x4 blocs <br>Disponible et utilisable à partir du **niveau 20 farmeur** | <img src="https://github.com/Katsun1236/PaladiumBedrock.Wiki/blob/408d4dff7b2e44939d7bb8a6a9533315ab7460ae/static/img/crafts/titanium_hoe.png" alt="Craft_titane_hoe" style="width: 160px; height: 160px; object-fit: cover;"> |
->
+
+## 6. Les seedplanter 
+
+| Objet | Icône | Decriptifs | Craft | 
+| :-----: | --- | :--------- | ----- |
+
+## 7. Autres 
